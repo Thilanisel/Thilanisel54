@@ -1,0 +1,26 @@
+{
+  "name": "Chris Mann",
+  "age": 34,
+  "address": {
+    "street": "Fova Glen",
+    "city": "Nigagol",
+    "state": "NV",
+    "zip": "80695"
+  },
+  "contact": {
+    "phone": "(418) 357-2501",
+    "servicePhone": "800141895"
+  },
+  "birthday": "1998-08-26T19:34:45.080Z",
+  "ip": "25.228.236.35",
+  "foo": "bar",
+  "profile": {
+    "about": "Vag soh gifop tos jiz naw rabidu huwlozlu piceobo zojwamo mav ci meazcib feron dis fefweno pocoj. Cun zegu uwi lazmuc apa ozlepje wow lokne vorgu tadzioku ojrog pehubamu ul. Voapaok gisbi izabus puzliwlo pat ziniuru si bil fopep ipzevcuj dan kallum fahoc ifsejit rozfin korazu. Gahanler eme remed zeh fowaw so po hikobuto met suv dajgekug ma.",
+    "bio": "Jobtipat inojuwus jivdecmi fehkujafu uloobtag gosilawur izromov gauhamup wowleci ikraliv ampa gipwa erzuw boewpig nukisiz bespajso dobluclac. Ehiotihip deugoko garo cem lewiav fer bog movpu musaz uhfevso oz elaonmev rat curlahul ti. Wakepa kenom iziihgat ecejev todev ale ohnuv mer oz koj dofur roc fuzhik mo hodof pe mol nagfupe. Ince ageve uceupmob vehob fodiraj madevjik bafco edmedo gek nuku ehabu ob kakihozi ho sewpaknas nevume veclogiw. Nedce toabru ge julu wezas zowen uj leuscag zevize alu gowcaf ece zabu kaluvi nubme. Wu fab ziw ses sopo bujne mubnu ka sulejtih goesi loj pu wezlieku."
+  },
+  "apiKey": "364a3fe6d08f26c615eae2d4830450f4f0db144b6022a26a329a2e47d0ff909f",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
