@@ -1,0 +1,26 @@
+{
+  "name": "Bill Torres",
+  "age": 24,
+  "address": {
+    "street": "Efenen Circle",
+    "city": "Rujohajov",
+    "state": "DE",
+    "zip": "06964"
+  },
+  "contact": {
+    "phone": "(771) 399-1417",
+    "servicePhone": "800696453"
+  },
+  "birthday": "1998-04-19T19:09:40.414Z",
+  "ip": "167.108.137.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Diwomu lufi kodievu ertiwsow ti moh ikfe vihuvfu nu ovilel wu zulsisuto jekmabta rafaf. Tana lumogus anoridha wog no isegifcos gam asla itpohij caf tidtel kewfofaw ilidosas. Ni pah sic bifsosok websumnet ci ok is mondoc nugsuc jerdu esdu jig so lizfot not.",
+    "bio": "Vito dadocra pef wo kop bosriip kovfi ka zevtewat fuusi bamaduk wej pep wul lonziwe lipvi iveco. Cevne ikgecun labat sa avcupa zu aguisce hapresot jowowdaz ogi ubgol adgues dom. Uretuela rulodefo ozi deto vowel veih iztoor cun nubudin iwfiviba vigoh wauniko. Roborbe fak fe fumecki ginuv zacejo begala wasupje hum il uvota imejejwew ituumohe mafwefna acmis pudim."
+  },
+  "apiKey": "216caad99aa75a4f4df73d5792375e33a53ba0d5df900b9cf719a5012724a4a4",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
