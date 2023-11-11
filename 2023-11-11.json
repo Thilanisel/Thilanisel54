@@ -1,0 +1,26 @@
+{
+  "name": "Rose Rodriquez",
+  "age": 19,
+  "address": {
+    "street": "Tojnis Grove",
+    "city": "Huwigutu",
+    "state": "CO",
+    "zip": "21382"
+  },
+  "contact": {
+    "phone": "(959) 673-8115",
+    "servicePhone": "800526396"
+  },
+  "birthday": "1986-09-06T21:29:43.188Z",
+  "ip": "162.192.22.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe wi husopan kepha cecwugum guraw metmun anu ora mawem ij vekaj hapukge tuglu pap lidwikzi. Jep ihoga gebwakop ohauzesap jahan tina vooge eh fotem ni neped ha acamupiv. Bujbo cin co sarmo ho salosona bezipa duksek ucsal dufawcur amewu durgupew ohni werheceg uscabol wolcih.",
+    "bio": "Le ipigafmi ibruvi jev riwe fer fu apuib hon nohaca odu nihsi sa fabageh woreri doetmeb fasahve. Ugugoh iwawepe wen kopib wa no ijipe ewuazu gok wulkemem wa bain womop gehgu firpac. Sovdozin tin nu zi zu jegfa guhgev bepok nirubge ke raznuhta po tumabtan eb it."
+  },
+  "apiKey": "7c0e38e6a69a5704a584ae595c9ecfcfb304ded216f88859ec51617daadd059a",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
