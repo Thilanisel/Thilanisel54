@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Reese",
+  "age": 55,
+  "address": {
+    "street": "Kipot Grove",
+    "city": "Jikkikvu",
+    "state": "WI",
+    "zip": "31215"
+  },
+  "contact": {
+    "phone": "(722) 203-2085",
+    "servicePhone": "800745247"
+  },
+  "birthday": "2005-03-18T23:44:09.836Z",
+  "ip": "155.200.244.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Ulfaeb geov gecu to sug tad ku butkidem sutole mojarca pa ihinoatu ri vogez. Rurvap usaofu hejtilku celog robmual ju pu sezbo ajko cen vih vun wejfew mewam lorancu tohjer ezi bormuskir. Uraba fosa ibafu atisedce pi gefuvzi puzwo gewelva hulukit ucekaro owa woaku riltofen tesmemid us zico. Lapfah comevi gegjunedu bolgucfor wimisri jacco ugaab av duti ikupov mo utimococ. Iboof kealla bufic jaznogco va amour povinzaf obfekku wepa ra poufohe babkitmew niciharuk.",
+    "bio": "Labkes fackupkib ivaiwlin zem koz peuk le wegluepu ozurowo fofkek ze ber uhoeg gowicoj cok. Zulijek nib ficovnu res keosu muptirpo cezledba ojfes pennid hemi imso su. Wiib cogsi dopticop ip ufbiku fonrihjub iga koeldez rejif ocjicjiw ohevage tu amapunuse pevican sacerap wi. Dok deebfeg of limotbe cuk caswu pagse okujetah dobci cag las lu zi lab bovligo oce woihzuz nidipige."
+  },
+  "apiKey": "cfe8fa351eb8211b508c5de14ac3fc77a841f47a3ca10f3ed110d209be169fbd",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
