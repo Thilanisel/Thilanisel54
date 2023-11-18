@@ -1,0 +1,26 @@
+{
+  "name": "Marc Weber",
+  "age": 32,
+  "address": {
+    "street": "Sebhak Terrace",
+    "city": "Mitifuz",
+    "state": "CA",
+    "zip": "26312"
+  },
+  "contact": {
+    "phone": "(346) 762-8903",
+    "servicePhone": "800457457"
+  },
+  "birthday": "2000-03-11T01:21:01.916Z",
+  "ip": "214.89.90.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Sogew zithetad gupfoc mavejja vof pibic reh guwmeose rod av obwuc rudem biwabce. Dug udra kajziwo uhfa kidec ahojep bubefleh ra mudon pemkope hiswah jaafi godsepziv. Depvikom vobto wusal adeijzum nu wibru ra lu ef canuz zu be. Ililod le nunbamin lowfe sufda aruveza omi ka ila tot tozeb norju mupbewsuf itolizic hoduro cagmujaw. Jibgewim jarnaaba jep toarogi nup duk zafuha afo fuhgic poz nibse bicrilo va bo voltuvuv codefoc.",
+    "bio": "Kovosbid hami zowobzo noz mi fim na ig pal sesugga juw pitbiiza cif ujtifi muwnulmi aknagloj vu uc. Toecvov bu pogojzi olekege puakedet ja nifu epcehoz waznovu repim dib omeuni. Wizsu badfi aji luwbaiba liw tus cej huborujo mo asbew oh ivlafnoh etbafu fopevaoco muf nefgokez. Hat zaiwsuf fudfe du siljolvo du zej feoze dezeroufa lem ag regag galusaman lihi se sadca tumiri ekuto."
+  },
+  "apiKey": "b75776fa9405c1957b364c7c0d8533b43d061b6a6de18fb97e1c2612ecdffff2",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
