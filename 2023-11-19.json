@@ -1,0 +1,26 @@
+{
+  "name": "Harriet Horton",
+  "age": 25,
+  "address": {
+    "street": "Sewdav Extension",
+    "city": "Addacke",
+    "state": "UT",
+    "zip": "49131"
+  },
+  "contact": {
+    "phone": "(878) 576-1245",
+    "servicePhone": "800966233"
+  },
+  "birthday": "1980-01-01T03:23:48.499Z",
+  "ip": "190.159.198.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Cassekuc vuflij pa rih awulefuv heim guitubih nu nuj pa osu uzi evite sewelhoj me rumabu eja wiputej. Sal mak diculba zi sevzo ifop puje zarir dug cit pak novesgam imiku atakuoha evi. Gacilmaj piufu vummeswa rocucneg du anud laccuihe jazrursow acrev suceka cezuwupu ifope naci.",
+    "bio": "Fez widnu wahapawi gecderip cahegdop co ozudata bejuab zop nut gu ta lirligur gek al nevicac neszo. Pu minok zojwupu nuzebid bot bavpisoj rif kojfu tini fome ajozib kani umjeb wuctut. Vomelac pa bu tehad jecusrut sot onuib iruhe fav hu dol ji vadivizo jer babuc tujobzaj lu."
+  },
+  "apiKey": "bcd063a659628abe1f115a00520d6b74c51abacb1db7fcc0d31e80a1bfd81685",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
