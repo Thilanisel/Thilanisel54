@@ -1,0 +1,26 @@
+{
+  "name": "Hester Warren",
+  "age": 35,
+  "address": {
+    "street": "Zadzez Loop",
+    "city": "Coohosor",
+    "state": "FL",
+    "zip": "22192"
+  },
+  "contact": {
+    "phone": "(928) 859-6020",
+    "servicePhone": "800937886"
+  },
+  "birthday": "1998-02-12T09:20:15.730Z",
+  "ip": "64.253.131.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Mekwudih bekako fobeje los bohcece eveuwiop af pan hoj di fughulfa oviovimu maeha osifi fafav pupfugun jeppeggih. Kuimlet fu gomco gohuwer jo kovrowla cigib discabo bavul es lehjo sibu zat nagigjar apo me hipzep bospojmuf. Kopba si ka bela sav suf natav fekkes titlozav jokzokge tevum efulizur regakip weoge wogu. Mi ure cenohte oc ozmuuki facnajhaz moz kazbinnuk iv leapho ufkuwgeh ishi fad azfud bip polago gida. Howkasrip be jopoko serid pondaz pe og mejevezec raawe fu ka vivab hekim var zorir. Bagoli pakbidji pu ivjevus fo toaboor uhife fektecof pubeno do mabginaj jellafif asome.",
+    "bio": "Ta luhsebew zajuwul cujibami su mukuz jehim tenkohcos rupze idohi ukza na tiv heg. Amar fifice ah vihi ekecehdu otehijju wasa sa mad fedesbu cushod hiwvipi iki dec bajev naguhfo mar wag. Ruhiza ha puk guanoavi bipugu uca kul cuehem gu kefwedud je arvuod onnav ogitiglir topbeg. Hu neufenu nekrotul nodhovufu dikra tet gu vi zavlumpu mu pijipi wi curiseg vobgiko tovve navvanej hirrisji."
+  },
+  "apiKey": "f60c87d82c0185d096f6e5d52e75cb0be057a104fc97812e525da24963489cea",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
