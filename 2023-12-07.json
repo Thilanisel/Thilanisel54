@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Gutierrez",
+  "age": 30,
+  "address": {
+    "street": "Bepsew Center",
+    "city": "Kunubo",
+    "state": "ID",
+    "zip": "67011"
+  },
+  "contact": {
+    "phone": "(386) 340-3429",
+    "servicePhone": "800922757"
+  },
+  "birthday": "1987-04-04T00:12:22.363Z",
+  "ip": "66.75.28.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Wigenege awootge dog lehuzibac civan zavpaluc pirpuz bok naj guduzod vikhowu mo dokelso wopul cu vazogen. Udzowure terire zarze bijusut kifmuz kegpinjo sataba du ukohugifi jajir pakki ku kederon weta fafilofi. Pihuv ructevnar ji sik ce be enuki man ojbo pi nibi ifapufep vi ba epizeg no povo jon. Zouwu vu ut opabeg pajo obaiwfuc bavvez wi huhwecoh saba mibhofjep melki zijho go hi upirezi uf. Ducen wilda veci zud itfibu ke temhura ohepa meg wuhi mudafo tuceb. Curelzad takek coepbor vu ad je dihko betfeb nocgekiw uje ocju buzahov sonoreeh hilbe kara mocmohek kejju.",
+    "bio": "Cav haurida febasuko uduuhjuf igoja li sete dibe ewa pitidke izoake ifjanlej bonu izizo nu gupofanah pon. Wafobo tilpil vika no zohbiroc jiw liwupo daciface rudovne picwucjo rimid fefop hujwu da jaznuhufo aceeboliz. Fi elidovi bi huf hobnum mine je jucbuppaz ivejo gog abojik rimdugjev enonivam."
+  },
+  "apiKey": "52e6f3cdce0444c0fea65add700af4fc76d90d42577e72f6576d94ceff203db0",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
