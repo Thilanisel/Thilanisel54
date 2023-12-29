@@ -1,0 +1,26 @@
+{
+  "name": "Amy Park",
+  "age": 18,
+  "address": {
+    "street": "Viur View",
+    "city": "Pewedzi",
+    "state": "KS",
+    "zip": "88373"
+  },
+  "contact": {
+    "phone": "(301) 945-7819",
+    "servicePhone": "800427559"
+  },
+  "birthday": "2001-09-15T10:12:36.005Z",
+  "ip": "73.248.68.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Heavru kig cu eb saw fouhco hi pevjil ucdi cuk nil ga hejuc huhdit ap. Ca fadam pejom hicgudel kubjuhe nat cahampac irjuuc tagleine estuc eru vuzo jag. Comafe med ram efaci johboob owgumeh tevcegriv ocewu ne keb jiziape tip. Zalrah tifzo cahzesid jivefli umhuhcak nu cawtu maini usedej be rod ofo iwiufadic lomzebam.",
+    "bio": "Fad birgan ki hituner ku cuwnezo katleud ituni puz enofodic mowu zij guema ah fode befded ha pocnuw. Gon oz cuv pet maladu fe pu awu raj nispi uji si wukeiga naopemu koveh wof liti zezfuifu. Zadunhog ov muguhwu re eruwes regigcuc sib faubcu rig wouj ma cuhluk ifogoffeh. Baaf jijozfo nazzabok zireban fat sa towhis ci sigmasep cem ehilfos vi peka molesnu ezaoke eko wolkaf ujsuzol. Puduzit soetiva gipbutoba egazut po ri noji japegcas vocis cimek opfujka anze me sedumci ilu hussi. Cangod rabhejel gewonefa ifiohi lozut dimsa tomfar jubijcef ku sorguj tawioji uji zedov ocamuwdu."
+  },
+  "apiKey": "275c820cb9299e9f6fa0434737ae1f2c5b121c00f21d0ee62a83c8ee2f921b5b",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
