@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Mathis",
+  "age": 30,
+  "address": {
+    "street": "Jalmar Loop",
+    "city": "Pikuca",
+    "state": "ND",
+    "zip": "97050"
+  },
+  "contact": {
+    "phone": "(245) 894-5821",
+    "servicePhone": "800575933"
+  },
+  "birthday": "1960-06-24T10:35:57.271Z",
+  "ip": "23.36.106.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Inicuof lez ecletaw huduwnip ehkoduc ow hon uwelu ko hof wa awi veuce gojigro takkij ihnokas hukaca. Ebe ha witom kewbi bowrin bud ungerup gi fo ameepuda co ubu getcigu omjon guhpul roidagi. Ibumitde ozobak isaovum waejior sa zulfi afuzoke paiteek lepuw feb mi vuwullu lontoduh. Ate wu aravu aj kul aji sigo tavrour pej worhu ewvoule afdazu owusesda nojufaif siicu vi. Kocze suju hineem apijizcut fuesaj nadnesul oswe fig lew vombida uleej gosdi enutew sularbuj zeli ciswe. Zodavu cikenim ho cem gahzuw omezul riiz pe gegjapo weku jeliv odemohko bo fimwane tohtuc refek ufarho.",
+    "bio": "Kuksob neta ur lub kamutzev elsasma vi pi hu gu luf iso asizu. Reocohab lito hen hegkuran nobsofgen zipe sujut hodevaf va limmebbum koggarut zif cu jal ofier rudpub ubkigwu attufzav. Az li icinapu gimaj ej onubu we ej geddojas ekovi nip wo azforuk. Faw nujilpov wiukacup ro gufwesvuz urzak orefefvet iwfas vogcu vi ep bav nun rewana jotof nibamam. Zug ip gohwar gacjoibo vep afovokova mijena jaac fohlul cuhgufi po hesme ku egto mavupru ticuf. Lufla wicu ofetob nagvoku toew mojfurud tabif ufekuoh uvto zin zindinus ifi du jetlitid du gagobu avjaj ki."
+  },
+  "apiKey": "526b2781c4cb3c3c66562294be3f0ffa54c27c98c6f31252f1dfeb2c3e265e78",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
