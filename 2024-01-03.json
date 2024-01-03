@@ -1,0 +1,26 @@
+{
+  "name": "Leah Hoffman",
+  "age": 35,
+  "address": {
+    "street": "Muvsi Junction",
+    "city": "Wegoma",
+    "state": "KY",
+    "zip": "88642"
+  },
+  "contact": {
+    "phone": "(278) 858-1379",
+    "servicePhone": "800815818"
+  },
+  "birthday": "1981-10-25T18:59:44.136Z",
+  "ip": "118.29.252.226",
+  "foo": "bar",
+  "profile": {
+    "about": "Suodu ajzosuh izu jiklihuz zubwi bah pa puji porfuvo hooz fuago ficu. Cu kalvemvel kajpom hohip lot fifhag zaruv sip votoboco ifogi wero dipa asuh paklodeh mot fini odsuve. Limuvo li vuowme gi talkes di kulweogo nuh siz fo ifi lu. Ra to ema he wi nu sar muwnifo gicmur hedis kewa nocuc.",
+    "bio": "Ga canugew si gamkoj ta wihan moberu zawtej gec atefausu wepu bekuh pucez jotfu cij ohohuk. Ip poutgaf mugwo hobemle rowefdep kafsa cidtono du heursil nekma az keuv. Do wuedsir abu mejovhog cu zehihuguk vivfocu hororado lomfic sik isawak totifaru tecaspu agetuwap vij ibahecfah ozalab."
+  },
+  "apiKey": "92b3514f1d65830ba7338e79b27e18170377321747008490bfda7f5cbe9688f8",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
