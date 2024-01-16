@@ -1,0 +1,26 @@
+{
+  "name": "Edith Carpenter",
+  "age": 45,
+  "address": {
+    "street": "Hovcos View",
+    "city": "Vomjaco",
+    "state": "CO",
+    "zip": "22658"
+  },
+  "contact": {
+    "phone": "(852) 791-4571",
+    "servicePhone": "800664753"
+  },
+  "birthday": "1959-04-18T15:44:56.828Z",
+  "ip": "235.135.6.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Ilozutej pujdipzu foot owenis hug vujupap suliton um toehu mo se vu medolca ov henfoh cit usi. Rohih eldokijo neduni cinid idvopaw fitin ubikede cuc vibmodel guomijaj gukdud kiwmesu. Legzocihi mutuh cunostas nuv cuca ewujubpag eswoic perojuji er melafja pivbafu ha kupra dugerpi.",
+    "bio": "Ju mo zape fatguaf zizwac iramarasi bu lejdi haspiho du kir cunaji fen daoje zom ujodipa fegisak. Cemik zemajtud ivegecfub ca fezigun ri icaphon fif vet he roej wucarow. Acgav owaharcek capcupa pigku vesmiver usibofli udulapap tu va pope didra jaici ocugu jan. Todmonwe jumageg zu ko bonebvoj zecbet kercug pev apul beb dasufi fewot penuv. Nidcunga nalad epa zatamhap ho ho waebe mub nus dereluf meobi fedocole kopinihe karrawmac vortagve. Zigije te rob berdegni lezrebru va tosnup respob kah fenotula rahtubdo veno reb vigpecu pitcuosi tumezo kujumeewo agutus."
+  },
+  "apiKey": "fabd77b743993cb5e6f14895bb757d01205c9e4803402cacd5e85b78bab8309d",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
