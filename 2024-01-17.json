@@ -1,0 +1,26 @@
+{
+  "name": "Samuel Rose",
+  "age": 65,
+  "address": {
+    "street": "Zupeju Circle",
+    "city": "Ehodalo",
+    "state": "OH",
+    "zip": "11515"
+  },
+  "contact": {
+    "phone": "(831) 599-3794",
+    "servicePhone": "800186572"
+  },
+  "birthday": "2004-10-14T11:22:48.774Z",
+  "ip": "202.206.199.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Setiju si asmibe obu fuolude esop lehtape meezmu kopul mewo kep kilhob kan et pe. Ecol pima jad sofo cocgi ateigosu hoseho fawzaz zolma gazza bet peg keabi cekvi beevge. Woz vicot gokhotga lekasica soni tikebu pa tu osi bus olweh sakel. Oz oczehwaz ka sule jo poje kiru fivisajim zizhagpaj wo abardom nibus coh. Zocguhbot di ujodov nomwesaw eju isnu ofcut foh nadefige gugmisgeb bozejud iho. Porijis jizadupu fatwe sigtujce re cival pamgan agi tigospi fefjim lemtodwed rev za. Coj moh hooha ba mec hulusuh ewecuwes neb ocuitdi es owzef safeida.",
+    "bio": "Tu ucaci vibet cofilce bom lemalero jup saci wez vu rib labfif di tucmi nodku. Ha ciskoab guf weruheg ec niocoil hod wipibju ji te iwinuuw ezoh fub apusoto wetepses repuju hacloz ga. Wojzi akwagjam etlu og lolecwi multu oli rolak fiswujho delucta afazunu upo sudpimra tuwmiod. Buzuba dovzir wal li el eseudwo hepteb notoretub om sizsaw duhuda pelmok."
+  },
+  "apiKey": "524e65c53d079b13b0338cad07a899af87def146de77305a263b7ce8859516f7",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
