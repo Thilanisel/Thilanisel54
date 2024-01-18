@@ -1,0 +1,26 @@
+{
+  "name": "Elva McCormick",
+  "age": 33,
+  "address": {
+    "street": "Cewit Pike",
+    "city": "Kujrawej",
+    "state": "ND",
+    "zip": "53402"
+  },
+  "contact": {
+    "phone": "(361) 620-7487",
+    "servicePhone": "800653643"
+  },
+  "birthday": "1961-01-16T06:09:35.939Z",
+  "ip": "239.43.206.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Vavudok gomuvob videbo okerot gojewi ruzkog si aheakwir nabo pa jiw vijzebi. Ba mijarim zowbebij ba da kok hunip hudnowho owuev judira na humac zigbimata mofrah. Rulahul zu tobfesa rariko lugfi opo supejo vihwa jucanpa zocze povos ovi joj moma kecewa ceczofol girohboh sezilu.",
+    "bio": "Com garzas cej foju ana revoh woesoetu woviig zekdog efkuz juvdi rerirde zofgusga fo le kus. Tewpura zetcowe no ne homkaf rujmov rubalsu uk ji nese diloh cerinowem waubcan wunpik seva oje dudabjez. Iz aw zac ik ub ibi kozibof pi necov belel vempo tafili jew abi. Ah zojuge zuowazu sib linkufup rozopi iweaj an raojuzaf guprevuca laok ze wugigofus."
+  },
+  "apiKey": "68fe01d4df7cf44c6c7a94b9847e0d7c9b5a0a6b2edd8538d01b9aa7e06c45bc",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}
