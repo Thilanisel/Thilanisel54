@@ -1,0 +1,26 @@
+{
+  "name": "Betty Thornton",
+  "age": 40,
+  "address": {
+    "street": "Ponka Loop",
+    "city": "Curhecap",
+    "state": "LA",
+    "zip": "17265"
+  },
+  "contact": {
+    "phone": "(626) 584-3762",
+    "servicePhone": "800617635"
+  },
+  "birthday": "1978-04-22T11:31:08.659Z",
+  "ip": "116.75.190.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Isgozo awli odefok hor gu gu nico buforici ur sipzifda ba ata ivilefo duthuza. Ahoun gimfeeli gasergu wopkod av gejbofla cogi cu gudvobaz evcaze or se wawboj kun zabod. Iwif zu accu gagnoh met bera suksusfa peggu ozepagjun lof ij gur rajkiskuw bicarte wo. Lugvupuv gojupize sidipo cu usuce cu buh wewsulde rupnu wacmor fu pur vef ar tosem jaro cifdu.",
+    "bio": "Wezpak pucub geafo si keozwo ho widefoh hojod bug ibo dotezi gudgu tiz da givnazi. Lucikip co tolvikcaf zanidatu fagkacme lo ponifmac awe puzovup vuz bafwu visbazo wegforu zidfimur nem zafuc. Pihsuke siv juztu boglaloh zedsuguj wif lonev hoput upasi davru unood igu lunufhun ovo dueb uze."
+  },
+  "apiKey": "0709d1ccee54cfd024230e691ae8d61fa55fdbae1505cd2ffa315b29ab2b2c51",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
