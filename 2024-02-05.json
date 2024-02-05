@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Park",
+  "age": 30,
+  "address": {
+    "street": "Horse Grove",
+    "city": "Juvuvra",
+    "state": "NV",
+    "zip": "11921"
+  },
+  "contact": {
+    "phone": "(751) 710-5492",
+    "servicePhone": "800775853"
+  },
+  "birthday": "1971-04-07T04:15:28.252Z",
+  "ip": "148.9.173.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Asepi zu feumdo neresge fulokuoza la ambieka cuhji ido muaj ju ki bic muwwov. Tuor je fotepin iwitaohi finot vi buobi bekise ke imu lokunlo menrevtoj ugbasu. Conmopde jibis ojuba we ho am guc gorbebane toverle gaswan zis ve zaskutas resuk zaic roon. Uwabgun hodilog li hoji luz las sejehite cobubpi fosceetu ripfi zobaf iw jowbar og eniweib muguw.",
+    "bio": "Pul laizegeb vovjig nohwinare faldir pisemow gat cetos teb tutonde nupin mabuwud vaepu runu. Cubfupid rodo mapot dima cep ijija daslageh ibafibes kucus gawhi itaeh osfa eplo. Ca udwas kowiko towaji mol udufijho figa lavi jawo on vozab cutipzav co warapi jef tezujfi oci."
+  },
+  "apiKey": "86f7fa765e651cd2a40b82c168334152725e66ad78b321f64c3f777b55a068c1",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
