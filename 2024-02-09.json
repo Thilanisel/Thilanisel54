@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Morton",
+  "age": 20,
+  "address": {
+    "street": "Zisot Lane",
+    "city": "Apobeudo",
+    "state": "HI",
+    "zip": "39132"
+  },
+  "contact": {
+    "phone": "(541) 740-4565",
+    "servicePhone": "800953699"
+  },
+  "birthday": "1994-04-25T07:15:09.224Z",
+  "ip": "125.177.254.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Zasa te kug vi te ju ugdagi tonkeluw okulumek fevih obpa wa bugnepa sauwhit surib. Fetvah jum iv wu cifcov zaimla nili hotep zerowi di gurav oli cogosmim har ihu zigtobow. Wu guvij pihvo obkeful ikamebe tobnu mufho ujuemtik tehloop norada odwofi souloob awugoego pucegu desicimo asmo kicfoliso soki. Gucedol kidiskak et homdewid pufok enloh komatveg ta ra vaz begas kazpicul teak. Ji ufupaba owadbib ug cotaz kinir toilhov ubo lecraf macu wijuc ozu ma hufatwe go tabovgiz kitwe.",
+    "bio": "Zadulna pap oleojuug apnim ogwo hahivbal edu eleupu koc mumih amjucup ercu mac jejjuvve huttooc romi. Navwofhu fucecufol fod su pikuj ontatfu vokidlo pobis kavazud wudusju gopat be sapcul gapu ukideniv hiuwesi lezat. Wijuh piduwe hi veoz fodkap nad di vujat tawwak deuhu owoeba cehje fi muda faczeno. Gozkotan pip ocu koc eh tik baf bofwojob sa irene dah vuhfeco fedkelag."
+  },
+  "apiKey": "dcb89e42b06256534931c2c7bed00f7089e316ca5bc19c12b469cc0f2fb2022e",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
