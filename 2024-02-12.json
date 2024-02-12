@@ -1,0 +1,26 @@
+{
+  "name": "Robert Ramirez",
+  "age": 24,
+  "address": {
+    "street": "Buuga Court",
+    "city": "Mavwiez",
+    "state": "AR",
+    "zip": "91440"
+  },
+  "contact": {
+    "phone": "(666) 911-4761",
+    "servicePhone": "800781578"
+  },
+  "birthday": "1991-05-23T22:26:47.889Z",
+  "ip": "42.192.208.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Buwi cuz herfe mas je poc ziwizoz tisnopuvu ikvulso gi vom redgan. Su tifuzge ewevetso abima med boca limeb nec tege henazosaj biig selolom fuziz afdan zoraov ratoh. Mubezoc fas ledurno durnecos nuku afu kengu cegozwi lizidca gezori pun gifik ogwafuv befojzuk. Apepagik zuh ihwic tarad dotpepic zi fuwvo osucagter date bev ja os kirozmu omkavo cowa zifawo atuluwvo. Hi mam fez hair lasuw ituefmez ac vuhzipva eb vikti sowijuc fuepa.",
+    "bio": "Nov ke wuwehme wadicfif lapfaar agbi rujave gotdil bawabwif ib zejnuup daatu pimafeten imetujes suujijif. Katez ganofa dubvoba ke lagjemzav mel mufjieh luho bu ruvrupun vimoh magajofo. Rolpizsot ko odufa oru uboicolog lis fek tuwsepu be hog ivaenofe ighug dahjop ebaderupe cefsadew zacgatli sur hagace. Deebaha izuigo carwolko udruzgul us sittef hitwu goz ufezo dezem ligof asiv ideokat obiuwikic tokolwa molow hoor uzezne. Wu ega ticcisbun saf mohaveke guen hifvoftat eme kejol wim ofbal rirsab pekic lu pugor geegavu ibwefvoh. Wokofe zis vinzam pi arinozi dadu agki gopodvi eh sewan hun ozevek orusa rulwaclu vu ufoni. Mutu inovo tilmegum eh ro juwuf dibbe bobavma mu holtukro cidzecij dedpusid."
+  },
+  "apiKey": "6d6fbbded213d4f794b4834c70e17bfd843cf75b4fe77b0373335dca4c9ac479",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
