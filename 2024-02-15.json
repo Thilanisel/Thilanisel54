@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Stephens",
+  "age": 34,
+  "address": {
+    "street": "Liwre Grove",
+    "city": "Rovutwel",
+    "state": "NH",
+    "zip": "11264"
+  },
+  "contact": {
+    "phone": "(274) 784-3746",
+    "servicePhone": "800198551"
+  },
+  "birthday": "1968-12-31T21:14:39.787Z",
+  "ip": "20.78.186.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Godecwo deezoga wi relru wizudda bobsimav mon zaj duged dizikdi ga caswokob bokabru roca. Lozumki we veul vi rahlohma fopso nekhi ehuletza hosaaba heawben tov tec cozgan ivo gulgafco mo hud. Gecimu gek codiw teovemid pu tagco mihmij ivu vu iro bofesiz pu hom ozuma kogupef va.",
+    "bio": "Vug jasucef gokkofcum nagru gudeg pumca ogorhas god bekca ri guh zihum zicewak mais. Vafilibu jo gebep is odla fonediwus gup zamohku vedotbed huluak kacifusi decsasa etto fidcar gunajuve cag zuwefo. Zok avgepu ganzab zukafe niztiwvek vovgo om ope ogu loncotar na mognipni vuuw viin negevir."
+  },
+  "apiKey": "fa4dee03f8564ccc5f8f76956c160dc429d71e9a6280479c882372ab3dee0c09",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
