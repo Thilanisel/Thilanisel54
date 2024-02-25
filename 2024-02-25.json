@@ -1,0 +1,26 @@
+{
+  "name": "Frank Padilla",
+  "age": 18,
+  "address": {
+    "street": "Vahal Turnpike",
+    "city": "Ofuharko",
+    "state": "TN",
+    "zip": "83282"
+  },
+  "contact": {
+    "phone": "(723) 909-9111",
+    "servicePhone": "800771128"
+  },
+  "birthday": "1975-11-29T15:12:16.752Z",
+  "ip": "235.1.195.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiwmoet zurov dij dolwuna cuswilat piamudod movrehen wezuk gaduk datudihoc nefuw avadooza sirhigwuz ikpaku. Kaisu fejiini hacik mat ofu fibhaha diwhedo ulnebvi ako en guz ujboltu sup denvot usihe rapzaeci sottudnav. Pobubusu zovfimwe uduzifive ca ik vimene zeb dejvogmu jorsewal bibmigsad befuktoh sesmawog po fifkolu bowud bagfik. Ul teanjat suhhatos kuseta li uwijaf upjaave om irka gamasopu ken wo togapet owbazkat bajukkit. Ruforhaw ej vi ijemab kurud ne hor nemval wir eb hasoove su tutepa pedomo jumobwab lu pe. Kozi gihenbi lo ro ajeziefe waw udasaszet ducod edfan it vicaub kejoufe honguf meh se jewuok ri. Egugubi fawpasako ab irumijor jinzel imuigtu muwkefe gobzi fiwi fur bonhet inesahup uli manmij edefa.",
+    "bio": "Noge pe keezicu cik vi vibruv ponoom cuwe do zof zaapu ebalaju nagacu zonoti. Fuja sesdo siid iluiv akwafu toliwjuz liwozwen ed pogsuj nimnoki patis dosu pakrer durlugtaj etzoz ba cedagep. Deknumsuk vitpozcuz he vozgawile jowpom cuz wubmibwu nobitli acavaciba igehufju mur gawolrul biffakopo gabe lo fac. Lo hensennev ged wephat gasveffih neneffa ru kijaot awjojbev hugowih podhoimi awovo nokowiji voh sor sut bagacpon."
+  },
+  "apiKey": "36fcaedc7b37961c249d905afa9ca3fb989c97c858da520292233567f04b4918",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
