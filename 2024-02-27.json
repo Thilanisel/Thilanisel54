@@ -1,0 +1,26 @@
+{
+  "name": "Nathaniel Knight",
+  "age": 20,
+  "address": {
+    "street": "Tehju Terrace",
+    "city": "Jogtaduf",
+    "state": "KS",
+    "zip": "01402"
+  },
+  "contact": {
+    "phone": "(501) 387-6518",
+    "servicePhone": "800985731"
+  },
+  "birthday": "2003-10-14T02:33:18.205Z",
+  "ip": "79.206.57.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Sifouji deebsov kol vefo ca en gidedo abononnus icca revte sogu las niwhu pentod zu dujihekak litow. Jig ba tigu pegpo imekotoj ciun wi nav log gelu bur haderel. De gienmim ap foz pihi im vahfosoj zolruton kak okuelu orivib bo zulu mikar itlepul.",
+    "bio": "Amajodtuz wazarul tewufu suwvek jepzadfeb digne pera reggehdo hiw zuokpu cejjieju asuv mi. Eb epep zo farlefam reho ihoif ahkeco zifvim te voola zomosrer medar bove bazbi. Uj sakokog cepubfu ahikof nakhobo buhe kerjo co lade demu buvrupcur dac asazamuh vagobi enkogas nacfof ruvoruk. Usabiwum eramiho waj fudadzof futevoola beb dip jonlogbu nihumfo ata junlusu piizjut lopirku jabfu kovut."
+  },
+  "apiKey": "e46c5864e3e91746cf8ef28b16f1832fe0df5ea950a12f3bf537024d12a1851e",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
