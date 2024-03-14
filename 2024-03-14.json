@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Tate",
+  "age": 23,
+  "address": {
+    "street": "Foufo Square",
+    "city": "Ajenova",
+    "state": "MA",
+    "zip": "43974"
+  },
+  "contact": {
+    "phone": "(509) 276-8979",
+    "servicePhone": "800323919"
+  },
+  "birthday": "1968-02-24T12:43:34.065Z",
+  "ip": "101.192.242.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu jinpivcu umiuzube likonfun dodhav mebdoffig alos tu bodosen pekgogif ri cimib cerwarzop monkuw. Pulli af iz if erofine vabogar ekoka cowuphig gaetib pado wihubutu dudmiti zamupipiw mavogupo cuz kemsi fic vahcolreb. Zufam kezu be pemvupufi lukanru lerfonuw em homopco acilu wi ofewuvkoc taidogid gapca wa pira.",
+    "bio": "Naehulen kaad ifo ge covuzket tu kepdi buhif iloeb tekontew kowid izjohof hiz seh fazvu pukun. Tomvevebi az mohif gowumi cen ev sicne sicawe vojbo fow kacfuh deko pukwurek meeruv ijgi ige odauv tupakva. Id seedo lek diedop co rihovupa doje nolo ta setufzus le ibes detzevgi."
+  },
+  "apiKey": "1c58905be28aa53749265e11510e0d38dc80c458c740b2728cbdcead8a4c2281",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
