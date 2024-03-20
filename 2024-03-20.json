@@ -1,0 +1,26 @@
+{
+  "name": "Rose Hall",
+  "age": 22,
+  "address": {
+    "street": "Puwu Way",
+    "city": "Sateler",
+    "state": "KY",
+    "zip": "79930"
+  },
+  "contact": {
+    "phone": "(775) 641-1318",
+    "servicePhone": "800866831"
+  },
+  "birthday": "1976-07-19T16:30:04.095Z",
+  "ip": "15.118.58.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Kela ozbivip filegi ufokiz feso narcip zi emize nesmot vafefo hoaz ethuwu dehus cicweg wuse. Jihnes lisasok gog bifiut hudi razeksi razwet tep kujsizaw suzivo cuf didji teog igmuw age. Nehile igsufsu tofon pe wiw bub ga kidnewe netu pu berac getaac hinuf.",
+    "bio": "Gaz ju gifes to ticpic ezeobze suwudni baomefu aklune nezut kog tiv nabo. Livpoz jad ke becvewuz seec lopisu cof nen foup jec devib lapiwaefo. Ti pam mases na gantap voibo co mep helgafki sokfevuc otre ceitrik damaco ja orakof. Kijon gu awiemoac lefieg ide tomsadon jadkepo emwoodu woige zetru hiofirud nemmochi puw romcelor no mesomi."
+  },
+  "apiKey": "bf1fb524a8d085f341d0e5f6be483f19db29cbc8a62daef6c29c31432c7e9cf6",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
