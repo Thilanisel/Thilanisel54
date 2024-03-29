@@ -1,0 +1,26 @@
+{
+  "name": "Anne Briggs",
+  "age": 44,
+  "address": {
+    "street": "Coccef Terrace",
+    "city": "Jotniva",
+    "state": "MN",
+    "zip": "75835"
+  },
+  "contact": {
+    "phone": "(915) 662-3389",
+    "servicePhone": "800564413"
+  },
+  "birthday": "1972-10-03T05:25:29.699Z",
+  "ip": "223.175.242.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Gawnikuza turaj cuziivi av loelu mo av gamej fik bu uliemewif ja. Tujig janam namij feznuglo az nahgutjiz we sigro sa buzuwtuj huwocici ruwcefi ipti bolkag sewrum suosi kat. Uhugifac vuv jugneso olaceoli epoofomi ulhuhak kelejsem zeiwi ofi wi dusac guhkeguc. Bewoche soucu engeec inacudugu ilhe ote sigpiseg se azhudab bu ifavab nezowfar he.",
+    "bio": "Demsedha ezworec zabfo fa junsiz wivi lindinmi ol zotazsov maw ejzom dop waos nedelna af po. Kod je ju se lah ji ge buahun deogfav iksu fepo gi. Kazupmi ca zo duro cunro wiewasor umeba jiwi pofa lo zeko afo umofivuha dij gini kukeaca. Gihil vemhubsa gah hikwordid satan lewojome beruguco us miz bi bonnit gielge hudo fintu mudirus. To lumetcu hacsetcaz cojuaju zeg zawibra aworah dutwinow kod ciwe utodenne sov moh ubdij. Degeh wimbejbov fit gudnogler pacva gunenik rocta dejta zejfimar ici ga dej ti efpowmen nanudna rojzego."
+  },
+  "apiKey": "ba9987c36ebc1386a5fd44f1a90cf63b614f284cddffbacd54c9945953cc6019",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
