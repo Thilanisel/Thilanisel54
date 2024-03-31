@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Adkins",
+  "age": 40,
+  "address": {
+    "street": "Watiw River",
+    "city": "Nefgarzi",
+    "state": "LA",
+    "zip": "90042"
+  },
+  "contact": {
+    "phone": "(866) 774-9571",
+    "servicePhone": "800478581"
+  },
+  "birthday": "1964-10-09T20:54:41.366Z",
+  "ip": "10.100.138.199",
+  "foo": "bar",
+  "profile": {
+    "about": "Gabeba naulavum kekbo jonpadsup pufalren jo lasid fooku ebme bedeji fozunac toz putwama afdinte. Uwlo mu miscif tofma vamcen gehobiz teszevwa jiegje uli munwak etehugak weftu zizlamjir pegublem. Com bu giiji widcemgu pejtulval kug napa igujawtir hacwa hadwugaw judojil hecru eme.",
+    "bio": "Coh jobighes azmulcig ju otefoh tahijhad bafafke wujvekig si molorud vidib befis esgi muvifzon gelbun povera. Vuemtok ethezvew cas ner cine bituhna pifiddu sememojo igi ipo ruw migsim hur fuf saite maw vet vokgiwdip. Mow ub ir de be fod rufgapgan hoalecic wauz huro favfinhe vefeh contata ev."
+  },
+  "apiKey": "b0225c902361402efd44805640ffe3d617f9d701e707a53389447d29e9af7117",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
