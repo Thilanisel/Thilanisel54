@@ -1,0 +1,26 @@
+{
+  "name": "Angel Baker",
+  "age": 30,
+  "address": {
+    "street": "Itiiju Parkway",
+    "city": "Takuvol",
+    "state": "RI",
+    "zip": "63457"
+  },
+  "contact": {
+    "phone": "(959) 693-5205",
+    "servicePhone": "800119861"
+  },
+  "birthday": "1986-04-24T13:19:18.472Z",
+  "ip": "150.75.117.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Go sappofwe jip osviru jah rodmilef bagohkaj ranhu olaowudub izpomco wo mucohvuv. Si wugoz nabroge wu anu himedka citsaceko hecdo zil inoariedu cagologec ahefo. Bah fo vepoljuz ponhehob zosolza ekizuh govfidon vo cut finpik uckerle talardez. Ezow ileejewo hiswib rahjig fasupvoj ebiwad du urkuba dusafop kosihri nuwfa cis bubu wuvubo ecosuup uda. Sucrub baose gujpa tipeed ker ta buor lavreda lat sagoknub doz vov gutam ankamwur tohu opogamic. Oji imdic duz peg suh goepid koosa tumeba ge mazoof jilaloziw lat riputapi ohkuc az teluluwa degi pocjifa. Joc rizec ici ra miz puhhewi gukun hafuw libno kusjolun nopo fan nun.",
+    "bio": "Wiero nit ig ko genugaj wumoc rugkupgil lud umu amifu buv vo ite ma mot. Davwigo ne jezo oje wejki abejel mofak ukobumim bipuro erjiek copoza kasno gu pin. Depiah pehjavkes ni fotmad caefda borla ceokmo halab ja sevatu mozocu evinalde rebe fanim."
+  },
+  "apiKey": "ac8f16d1e9827cfc1e18fa3939e149e55b5c889bd40436c861c142fa92a4a232",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
