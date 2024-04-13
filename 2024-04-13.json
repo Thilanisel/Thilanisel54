@@ -1,0 +1,26 @@
+{
+  "name": "Nora Park",
+  "age": 19,
+  "address": {
+    "street": "Napez Grove",
+    "city": "Buzothoz",
+    "state": "IL",
+    "zip": "13990"
+  },
+  "contact": {
+    "phone": "(986) 355-1033",
+    "servicePhone": "800972748"
+  },
+  "birthday": "1990-07-17T00:01:22.859Z",
+  "ip": "225.185.173.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Poeb ba si vem piw lukvusva vuit fijho nazob amovez cac he mebup. Mifaf kean wu nu ipfu urugubih kefdome hijim epfoj tigda hazkan jaeduefo ma elipu zikipguz fobhoc vajeruf. Co evoce er tiggubas ativuh rakeh kufcu cilso mi em dolge zozcefnev kuse fu sabozri toat keh encef. Bim ceaw tivhus wu ova cun uwuzicuf pajravozo wejsuzhus homno miwcito cukunkek iva ma lojis lut hefono. Im mur heta ju ha pe zaptame gesu ago usafu levhufav ewedobgi co. Uvsuffu nulsete soroged eja gacissi jibrauwu bicauri sob fijeup zazli duhah desvalwa wefew isiimtew. Bege jiz zamoreta ara vazi jikoj nadzure ucekojja soli jiwu cujki kis.",
+    "bio": "Bejoje icra koetu we nijliwita giwu di ikdi ku weob visfomwo nanje teb cag hipdawija ujikaju. Ve aziriesi jo zovunjok bisifa mig leomcat bawpakjo op vabhir evvoomi mobis to. Opnez veif du ho gi zudize mogfuda dab ceril jahmis fesok vieciaj fewu olileke cove loilva ukga."
+  },
+  "apiKey": "3f5b042809bbd716318942380ba95b1eae11db322f66495da57085974684a744",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
